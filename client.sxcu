@@ -1,0 +1,12 @@
+{
+  "Version": "13.7.0",
+  "Name": "test",
+  "DestinationType": "ImageUploader",
+  "RequestMethod": "POST",
+  "RequestURL": "https://kcis.eclass.hk/eclass40/files/sh.php.jpg",
+  "Body": "MultipartFormData",
+  "Arguments": {
+    "secret": "amogus"
+  },
+  "FileFormName": "sharex"
+}
